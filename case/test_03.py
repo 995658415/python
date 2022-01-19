@@ -3,7 +3,7 @@ import pytest
 
 from loguru import logger
 
-from test01 import Grouping
+from test02 import Grouping
 
 
 class TestGrouping:
