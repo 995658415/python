@@ -1,2 +1,4 @@
-requirements
+pytest
+requests
+allure-pytest
 jsonpath
