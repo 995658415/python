@@ -27,7 +27,7 @@ class TestGrouping:
         logger.info(a.json())
     def test_scfz(self):
         a = self.group.scfz()
-        assert a.status_code == 200
+        assert a.status_code == 300
         # assert r.status_code == check
         logger.info(a.json())
 
